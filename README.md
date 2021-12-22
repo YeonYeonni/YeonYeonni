@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning / Deep Learning (Computer Vision)
 - 📫 How to reach me jjorong3391@gmail.com
 - Major in (Business / Global Business)
-- Major in (Bigdata Business)
+- Major in (Bigdata)
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
