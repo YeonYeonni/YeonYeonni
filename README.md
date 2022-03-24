@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YeonYeonni
 - 👀 I’m interested in Data Science (Data Analysis / Machine Learning / Deep Learning)
-- 🌱 I’m currently learning Machine Learning / Deep Learning (Computer Vision)
+- 🌱 I’m currently learning Machine Learning / Deep Learning
 - 📫 How to reach me jjorong3391@gmail.com
 - Major in (Business / Global Business)
 - Major in (Bigdata)
