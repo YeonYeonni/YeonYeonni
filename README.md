@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <br>
   
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/Microsoft Access-A4373A?style=for-the-badge&logo=Microsoft Access&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <br>
