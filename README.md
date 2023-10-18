@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YeonYeonni
 - 👀 I’m interested in Data Science > Data Analysis / Machine Learning / Deep Learning
-- 🌱 I’m currently learning "Computer Vision"
+- 🌱 I’m currently learning "Computer Vision" and "Few Shot Learning"
 - 📫 How to reach me "jjorong3391@gmail.com"
 - Major in "Business > Global Business"
-- Major in "Bigdata Business"
+- Major in "Bigdata Business Intelligence"
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
