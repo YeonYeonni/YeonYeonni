@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YeonYeonni
-- 👀 I’m interested in Data Science > Machine Learning / Deep Learning
-- 🌱 I’m currently learning "Computer Vision" and "Human Computer Interaction"
+- 👀 I’m interested in Data Science > Machine Learning / Deep Learning / Computer Vision
+- 🌱 I’m currently learning "Computer Vision" and "Virtual Environment"
 - 📫 How to reach me "jjorong3391@gmail.com"
 - [B.S.] Global Business Administration
 - [B.S.] Bigdata Business Intelligence
