@@ -4,7 +4,7 @@
 - 📫 How to reach me "jjorong3391@gmail.com"
 - [B.S.] Global Business Administration (~2021)
 - [B.S.] Bigdata Business Intelligence (~2021)
-- [M.S.] VElab (Virtual Environment Lab) (AI Imaging, Department of Image Science and Art, Chung-Ang University) (2024~
+- [M.S.] VElab (Virtual Environment Lab) (AI Imaging, Department of Image Science and Art, Chung-Ang University) (2024~)
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
