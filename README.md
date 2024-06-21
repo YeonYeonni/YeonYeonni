@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @YeonYeonni
-- 👀 I’m interested in Data Science > Machine Learning / Deep Learning / Computer Vision & Action Recognition
-- 🌱 I’m currently learning "Action Recognition" and "Virtual Environment"
+- 👀 I’m interested in Machine Learning & Deep Learning / Action Recognition / Sensor / Computer Vision / Data Science
+- 🌱 I’m currently learning "Action Recognition" and "Virtual Environment/Deep Learning"
 - 📫 How to reach me "jjorong3391@gmail.com"
-- [B.S.] Global Business Administration
-- [B.S.] Bigdata Business Intelligence
-- (now) [M.S.] VElab (Virtual Environment Lab) (AI Imaging, Department of Image Science and Art, Chung-Ang University)
+- [B.S.] Global Business Administration (~2021)
+- [B.S.] Bigdata Business Intelligence (~2021)
+- [M.S.] VElab (Virtual Environment Lab) (AI Imaging, Department of Image Science and Art, Chung-Ang University) (2024~
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
