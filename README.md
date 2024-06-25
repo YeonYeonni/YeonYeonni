@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
-  <br>
 
   <br>
   <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
