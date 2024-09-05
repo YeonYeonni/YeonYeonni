@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YeonYeonni
-- 👀 I’m interested in [Machine Learning & Deep Learning / Action Recognition / Sensor / Computer Vision / Data Science]
+- 👀 I’m interested in [Machine Learning & Deep Learning / Action Recognition / Motion Capture / Computer Vision / Data Science]
 - 🌱 I’m currently learning "Action Recognition" and "Virtual Environment/Deep Learning"
 - 📫 How to reach me "jjorong3391@gmail.com"
 - [B.S.] Global Business Administration (~2021)
