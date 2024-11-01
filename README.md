@@ -2,8 +2,8 @@
 - 👀 I’m interested in [Machine Learning & Deep Learning / Action Recognition / Motion Capture / Computer Vision / Data Science]
 - 🌱 I’m currently learning "Action Recognition" and "Virtual Environment/Deep Learning"
 - 📫 How to reach me "jjorong3391@gmail.com"
-- [B.S.] Global Business Administration (~2021)
-- [B.S.] Bigdata Business Intelligence (~2021)
+- [B.S.] Global Business Administration in Seokyeong University (~2021)
+- [B.S.] Bigdata Business Intelligence in Seokyeong University (~2021)
 - [M.S.] VElab (Virtual Environment Lab) (AI Imaging, Department of Image Science and Art, Chung-Ang University) (2024~)
 
 <!---
