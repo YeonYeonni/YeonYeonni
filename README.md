@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YeonYeonni
-- 👀 I’m interested in [Machine Learning & Deep Learning > Human Motion & Action Recognition & Pose Estimation]
+- 👀 I’m interested in [Machine Learning & Deep Learning > Motion Generation & Action Recognition & Pose Estimation]
 - 🌱 I’m currently learning "Action Recognition" and "Virtual Environment/Deep Learning"
 - 📫 How to reach me "jjorong3391@gmail.com"
 - [B.S.] Global Business Administration in Seokyeong University (~2021)
