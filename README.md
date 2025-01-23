@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
 
   <br>
-  <img src="https://img.shields.io/badge/unity-DB3729?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
   <br>
