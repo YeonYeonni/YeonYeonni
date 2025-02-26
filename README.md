@@ -2,7 +2,8 @@
 - 👀 I’m currently learning [Human body motion based on ML/DL]
 - 🌱 I’m interested in [Motion generation, Pose estimation, and Reinforcement Learning also]
 - 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr"
-- [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) (~2021)
+- [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) ![image](https://github.com/user-attachments/assets/beb5ab87-825e-47d0-8f90-28bf7f37f22c)
+ (~2021)
 - (Now) [M.S.] VElab (Virtual Environment Lab) (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University)
 
 <!---
