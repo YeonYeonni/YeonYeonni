@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/bs4-3776AB?style=for-the-badge&logo=beautifulsoup&logoColor=white">
+
 
   <br>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
