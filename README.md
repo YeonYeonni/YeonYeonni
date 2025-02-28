@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/VTK-4C4C4C?style=for-the-badge&logoUrl=https://www.vtk.org/wp-content/uploads/2015/03/vtk_logo-main1.png">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/bs4-FF6600?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="bs4 Badge">
+  <img src="https://img.shields.io/badge/bs4-FF6600?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/3e/BeautifulSoup4_logo.svg&logoColor=white" alt="bs4 Badge">
+
 
 
   <br>
