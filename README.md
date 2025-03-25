@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   ### Data Crawling
   <img src="https://img.shields.io/badge/bs4-FF6600?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/3e/BeautifulSoup4_logo.svg&logoColor=white" alt="bs4 Badge">
 
-  [![My Skills](https://skillicons.dev/icons?i=selenium, bs4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
 
   ### Modeling Platform
   [![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
