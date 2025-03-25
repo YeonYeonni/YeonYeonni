@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
 
   ### Computer Graphics & Image Processing
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OpenGL_logo.svg" alt="OpenGL Logo" width="200px">
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OpenGL_logo.svg" alt="OpenGL Logo" width="200px" />
   [<img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg" alt="Vtk" width="40px" />
   [![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
