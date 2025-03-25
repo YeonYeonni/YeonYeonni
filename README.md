@@ -37,9 +37,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
+  [![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
+
   ## Query & Project Management
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+  [![My Skills](https://skillicons.dev/icons?i=oracle,mysql,github,git)](https://skillicons.dev)
 </div>
