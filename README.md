@@ -18,16 +18,14 @@ You can click the Preview link to take a look at your changes.
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,r)](https://skillicons.dev)
 
   ## For Machine Learning
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
-
   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
 
   ## Computer Graphics and Image Processing
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
   <img src="https://img.shields.io/badge/VTK-4C4C4C?style=for-the-badge&logoUrl=https://www.vtk.org/wp-content/uploads/2015/03/vtk_logo-main1.png">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> 
+
+  [![My Skills](https://skillicons.dev/icons?i=opengl,vtk,opencv)](https://skillicons.dev)
 
   ## Data Crawling
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
