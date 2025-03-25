@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoUrl=https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C# Badge">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   
-  [![My Skills](https://skillicons.dev/icons?i=python,c++,c#,R)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,c#,r)](https://skillicons.dev)
 
   ## For Machine Learning
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
