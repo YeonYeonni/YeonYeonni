@@ -24,10 +24,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
   <img src="https://img.shields.io/badge/VTK-4C4C4C?style=for-the-badge&logoUrl=https://www.vtk.org/wp-content/uploads/2015/03/vtk_logo-main1.png">
 
-  [<img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg" alt="Vtk" width="70px"/>](https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg)
-  [<img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/opengl.svg" alt="opengl" width="70px"/>](https://github.com/YeonYeonni/skill-icons/blob/main/icons/opengl.svg)
+  <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg" alt="Vtk" width="70px"/>
+  <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/opengl.svg" alt="opengl" width="70px"/>
   [![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
+https://github.com/YeonYeonni/skill-icons/blob/main/opengl.svg
 
   ### Data Crawling
   [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
