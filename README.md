@@ -3,7 +3,7 @@
 - 🌱 I’m interested in [Motion generation, Pose estimation, and Reinforcement Learning also]
 - 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr"
 - [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) (~2021)
-- (Now) [M.S.] VElab (Virtual Environment Lab) (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University)
+- (Now) [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University)
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
