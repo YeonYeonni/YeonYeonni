@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
 
-  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,SciKitLearn-Light.svg)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
 
   ## Computer Graphics and Image Processing
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
