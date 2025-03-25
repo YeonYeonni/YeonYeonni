@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   [<img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg" alt="Vtk" width="40px" />
 
   
-  [![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
   ### Data Crawling
   [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
