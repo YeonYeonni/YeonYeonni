@@ -21,9 +21,10 @@ You can click the Preview link to take a look at your changes.
   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=light)](https://skillicons.dev)
 
   ### Computer Graphics & Image Processing
-  [![My Skills](https://skillicons.dev/icons?i=opencv&theme=light)](https://skillicons.dev)
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" height="50px" width="70px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Visualization_Toolkit_logo.svg" alt="Vtk" width="70px" />
+  [![My Skills](https://skillicons.dev/icons?i=opencv&theme=light)](https://skillicons.dev)
+
 
 
   ### Data Crawling
