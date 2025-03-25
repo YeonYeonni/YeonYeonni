@@ -21,11 +21,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
   ## For Machine Learning
-  <br>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
-  <br>
 
   ## Computer Graphics and Image Processing
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
@@ -37,12 +35,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/bs4-FF6600?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/3e/BeautifulSoup4_logo.svg&logoColor=white" alt="bs4 Badge">
 
   ## Modeling Platform
-  <br>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 
   ## Query
-  <br>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
