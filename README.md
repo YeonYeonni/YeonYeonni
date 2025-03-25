@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <div align=center> 
 
   ### Programming Language
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,r&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python&theme=light,cpp,cs,r&theme=light)](https://skillicons.dev)
 
   ### For Machine Learning
   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
