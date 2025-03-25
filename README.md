@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
   ### Computer Graphics & Image Processing
   [![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" width="80px" />
   <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/Vtk.svg" alt="Vtk" width="40px" />
 
 
