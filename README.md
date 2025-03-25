@@ -15,17 +15,14 @@ You can click the Preview link to take a look at your changes.
 <div align=center> 
 
   ## Programming Language
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoUrl=https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C# Badge">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,r)](https://skillicons.dev)
 
   ## For Machine Learning
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-EE4C2C?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">
+
+  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,SciKitLearn)](https://skillicons.dev)
 
   ## Computer Graphics and Image Processing
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
