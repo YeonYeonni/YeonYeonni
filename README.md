@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
   ### Data Crawling
   [![My Skills](https://skillicons.dev/icons?i=selenium&theme=light)](https://skillicons.dev)
-  <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/BS4.svg" alt="BS4" height="50px" width="80px" />
+  <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/BS4.svg" alt="BS4" height="50px" width="80px" style="margin-top: 10px; margin-bottom: 10px;" />
 
 
   ### Modeling Platform
