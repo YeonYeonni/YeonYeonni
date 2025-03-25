@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 
   ### Data Crawling
-  [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev /)
+  [![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
   <img src="https://github.com/YeonYeonni/skill-icons/blob/main/icons/BS4.svg" alt="BS4" width="100px" />
 
 
