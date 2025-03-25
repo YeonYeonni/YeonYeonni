@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/VTK-4C4C4C?style=for-the-badge&logoUrl=https://www.vtk.org/wp-content/uploads/2015/03/vtk_logo-main1.png">
   
   [![My Skills](https://skillicons.dev/icons?i=opengl,vtk,opencv)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=opengl)](https://commons.wikimedia.org/wiki/File:Opengl-logo.svg)
 
   ### Data Crawling
   <img src="https://img.shields.io/badge/bs4-FF6600?style=for-the-badge&logoUrl=https://upload.wikimedia.org/wikipedia/commons/3/3e/BeautifulSoup4_logo.svg&logoColor=white" alt="bs4 Badge">
