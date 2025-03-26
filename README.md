@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   ### Programming Language
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,r&theme=light)](https://skillicons.dev)
 
-  ### For Machine Learning
+  ### Machine Learning & Deep Learning
   [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=light)](https://skillicons.dev)
 
   ### Computer Graphics & Image Processing
