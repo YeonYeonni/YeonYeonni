@@ -35,6 +35,6 @@ You can click the Preview link to take a look at your changes.
   ### Modeling Platform
   [![My Skills](https://skillicons.dev/icons?i=unity,blender&theme=light)](https://skillicons.dev)
 
-  ### Query & Project Management
+  ### SQL
   [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
 </div>
