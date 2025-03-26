@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
   [![My Skills](https://skillicons.dev/icons?i=unity,blender&theme=light)](https://skillicons.dev)
 
   ### Query & Project Management
-  [![My Skills](https://skillicons.dev/icons?i=mysql,github,git&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
 </div>
