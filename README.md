@@ -1,3 +1,4 @@
+### [Introduction]
 - 👋 Hi, I’m @YeonYeonni
 - 👀 I’m currently learning [Human body motion based on ML/DL]
 - 🌱 I’m interested in [Motion generation, Pose estimation, and Reinforcement Learning also]
