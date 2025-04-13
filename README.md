@@ -4,6 +4,9 @@
 - 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr"
 - [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) (~2021)
 - (Now) [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University)
+- Publication
+- [Domestic] 모션스피어 기반의 속도 조절 가능한 동작 저작 시스템 (Velocity Adjustable Motion Authoring System based on Motion sphere), 한국정보과학회 2024
+- [International] (Under review) ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement, UIST 2025
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
