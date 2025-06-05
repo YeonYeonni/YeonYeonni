@@ -12,7 +12,8 @@
 #### Domestic
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024)
 #### International
-- (Under review) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025)
+- (Submitted but regretted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025)
+
 
 
 
