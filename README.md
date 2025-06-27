@@ -6,7 +6,7 @@
 
 ### [Degree]
 - [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) (~2021)
-- (Now) [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (2024~)
+- [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (2024~)
   
 ### [Publication]
 #### Domestic
