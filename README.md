@@ -15,7 +15,7 @@
 #### International
 - (Under review) MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
 - (Under review) ChoreoTransformer: Hierarchical Approach for the Precise Reproduction of Sophisticated Dance Movement, (UIST 2025 Poster, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
-- (Submitted but regretted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
+- (Not accepted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
 
 
 
