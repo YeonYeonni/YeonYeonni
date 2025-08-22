@@ -13,9 +13,8 @@
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연,김정준, 채영호 (중앙대학교))
 - PromoEdit 비전문적인 모캡 데이터 편집을 통한 전문적인 모션 생성 (KCC 2025, 김정준, 이정연, 채영호 (중앙대학교))
 #### International
-- (Under review) LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
+- (Accepted!!) LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
 - (Under review) MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
-- (Under review) ChoreoTransformer: Hierarchical Approach for the Precise Reproduction of Sophisticated Dance Movement, (UIST 2025 Poster, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
 - (Not accepted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
 
 
