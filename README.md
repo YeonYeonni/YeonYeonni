@@ -10,10 +10,10 @@
   
 ### [Publication]
 #### International
-- (Accepted!!) LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
-- (Rejected but recommended for Poster) MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
-- (Under review) Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Choi (Chung-Ang University))
-- (Not accepted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
+- (Accepted!!) LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
+- (Rejected but recommended for Poster) MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
+- (Under review) Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
+- (Not accepted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Chai (Chung-Ang University))
 
 #### Domestic
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연,김정준, 채영호 (중앙대학교))
