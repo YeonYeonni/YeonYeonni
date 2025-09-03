@@ -12,6 +12,7 @@
 #### International
 - (Accepted!!) LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
 - (Rejected but recommended for Poster) MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
+- (Under review) Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Choi (Chung-Ang University))
 - (Not accepted) <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Choi (Chung-Ang University))
 
 #### Domestic
