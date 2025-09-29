@@ -19,7 +19,7 @@
 - [PromoEdit 비전문적인 모캡 데이터 편집을 통한 전문적인 모션 생성](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318091&width=1415), (KCC 2025, 김정준, 이정연, 채영호 (중앙대학교))
 
 #### ETC
-- <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, (UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Chai (Chung-Ang University))
+- <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, ([Rejected]UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Chai (Chung-Ang University))
 
 
 <!---
