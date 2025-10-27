@@ -21,6 +21,11 @@
 #### ETC
 - <a href="https://drive.google.com/file/d/1lFvuvVyYj8UONk_HDyVr7yIfqV16oRLG/view" target="_blank">ChoreoTransformer: Hierarchical Approach to Virtual Choreography for the Precision-Optimized Reproduction of Sophisticated Dance Movement</a>, ([Rejected]UIST 2025, Jeong Yeon Lee, Joung Jun Kim, Soung Sil Park, Hyun Beom Kim, Young Ho Chai (Chung-Ang University))
 
+### [Rewards & Projects]
+- KT Genielabs Dev-Challenge 2022 (우승) (https://www.notion.so/yeonyeonni/4e4321383ba44bcdbe7a53f20c0eccbe)
+- 월간 데이콘 예술 작품 화가 분류 AI 경진대회 (5위 수상) (https://www.notion.so/yeonyeonni/AI-62ceadec8f77432a960649ef8cedff85)
+- 안면 인식 페이스 요가 게임 개발 (https://www.notion.so/yeonyeonni/bd89136948014e14b2c15cba5570f4ff)
+- 영상 처리 프로그래밍 횡단보도 훼손율 측정 (2021) (https://www.notion.so/yeonyeonni/OpenCV-e6699d5c58014b648addfb9043725be0)
 
 <!---
 YeonYeonni/YeonYeonni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
