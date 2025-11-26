@@ -10,7 +10,7 @@
   
 ### [Publication]
 #### International
-- LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions, (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
+- [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
 - MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
 - Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
 
