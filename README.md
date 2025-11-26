@@ -5,8 +5,9 @@
 - 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr", "jjorong3391@skuniv.ac.kr"
 
 ### [Degree]
+- [Ph.D.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (2026~)
+- [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (~2025)
 - [B.S.] Global Business Administration / Bigdata Business Intelligence (Seokyeong University) (~2021)
-- [M.S.] Virtual Environment Lab (The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University) (2024~)
   
 ### [Publication]
 #### International
