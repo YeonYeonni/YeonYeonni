@@ -11,8 +11,8 @@
   
 ### [Publication]
 #### International
-- [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
-- MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
+- [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=68&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
+- MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=69&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
 - Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
 
 #### Domestic
