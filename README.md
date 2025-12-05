@@ -5,14 +5,14 @@
 - 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr", "jjorong3391@skuniv.ac.kr"
 
 ### [Degree]
-- [Ph.D.] Virtual Environment Lab ([The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University](https://gsaim.cau.ac.kr/)) (2026~)
+- [Ph.D. Candidate] Virtual Environment Lab ([The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University](https://gsaim.cau.ac.kr/)) (2026~)
 - [M.S.] Virtual Environment Lab ([The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University](https://gsaim.cau.ac.kr/)) (~2025)
 - [B.S.] Global Business Administration / Bigdata Business Intelligence ([Seokyeong University](https://www.skuniv.ac.kr/)) (~2021)
   
 ### [Publication]
 #### International
 - [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=68&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
-- MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition, (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=69&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
+- [MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition](https://dl.acm.org/doi/pdf/10.1145/3756884.3770547), (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=69&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
 - Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
 
 #### Domestic
