@@ -16,7 +16,7 @@
 #### International
 - [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=68&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
 - [MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition](https://dl.acm.org/doi/pdf/10.1145/3756884.3770547), (VRST 2025 Poster, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai [(Chung-Ang University)](https://gsaim.cau.ac.kr/bbs/board.php?tbl=bbs14&mode=VIEW&num=69&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobile_flag=&page=1))
-- Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
+- [Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models](https://ieeexplore.ieee.org/document/11268747) (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
 
 #### Domestic
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연,김정준, 채영호 (중앙대학교))
