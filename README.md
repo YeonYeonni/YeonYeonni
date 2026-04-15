@@ -17,7 +17,7 @@
 - [Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models](https://ieeexplore.ieee.org/document/11268747) (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
 
 #### International Journal
-- [Anatomical Control in Text-to-Motion Diffusion using Joint Condition Vectors], (IEEE ACCESS, SOUNGSILL PARK, JEONGYEON LEE, KYUNGMIN KIM, YOUNGHO CHAI (Chung-Ang University))
+- Anatomical Control in Text-to-Motion Diffusion using Joint Condition Vectors, (IEEE ACCESS, SOUNGSILL PARK, JEONGYEON LEE, KYUNGMIN KIM, YOUNGHO CHAI (Chung-Ang University))
 
 #### Domestic Conference
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연,김정준, 채영호 (중앙대학교))
