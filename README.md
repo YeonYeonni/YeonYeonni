@@ -1,8 +1,6 @@
 ### [Introduction]
-- 👋 Hi, I’m @YeonYeonni
-- 👀 I’m currently learning [Human body motion based on ML/DL]
-- 🌱 I’m interested in [Human motion generation, Human pose estimation]
-- 📫 How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr", "jjorong3391@skuniv.ac.kr"
+#### Currently researching [Human body motion based on AI > Human motion generation, Human pose estimation]
+#### How to reach me "jjorong3391@gmail.com", "jjorong3391@cau.ac.kr"
 
 ### [Degree]
 - (Now) [Ph.D. Candidate] [Virtual Environment Lab](https://blog.naver.com/velab) ([The Graduation school of Advanced Imaging Science, Multimedia & Film, Chung-Ang University](https://gsaim.cau.ac.kr/))
