@@ -18,7 +18,7 @@
 - [Anatomical Control in Text-to-Motion Diffusion using Joint Condition Vectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11478258), (IEEE ACCESS, SOUNGSILL PARK, JEONGYEON LEE, KYUNGMIN KIM, YOUNGHO CHAI (Chung-Ang University))
 
 #### Domestic Conference
-- [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연,김정준, 채영호 (중앙대학교))
+- [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연, 김정준, 채영호 (중앙대학교))
 - [PromoEdit 비전문적인 모캡 데이터 편집을 통한 전문적인 모션 생성](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318091&width=1415), (KCC 2025, 김정준, 이정연, 채영호 (중앙대학교))
 
 #### ETC
