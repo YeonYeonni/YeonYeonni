@@ -9,17 +9,15 @@
   
 ### [[Publication]](https://scholar.google.com/citations?user=y4dfdssAAAAJ&hl=ko)
 
-#### International Conference
+#### Conference
 - [LongAct: A Dataset for Motion Generation from Long-Term Multi-Action Text Descriptions](https://ieeexplore.ieee.org/document/11236129), (ISMAR 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
 - [MoPriC : Two Stage Approach for Text Guided Motion-Primitives Composition](https://dl.acm.org/doi/pdf/10.1145/3756884.3770547), (VRST 2025, Jeong Yeon Lee, Soung Sil Park, Young Ho Chai (Chung-Ang University))
 - [Embedding Anatomical Joint Constraints into Text-Driven Motion Diffusion Models](https://ieeexplore.ieee.org/document/11268747) (AICT 2025, Soung Sil Park, Jeong Yeon Lee, Young Ho Chai (Chung-Ang University))
-
-#### International Journal
-- [Anatomical Control in Text-to-Motion Diffusion using Joint Condition Vectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11478258), (IEEE ACCESS, SOUNGSILL PARK, JEONGYEON LEE, KYUNGMIN KIM, YOUNGHO CHAI (Chung-Ang University))
-
-#### Domestic Conference
 - [모션스피어 기반의 속도 조절 가능한 동작 저작 시스템(Velocity Adjustable Motion Authoring System based on Motion sphere)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12041787), (KSC 2024, 이정연, 김정준, 채영호 (중앙대학교))
 - [PromoEdit 비전문적인 모캡 데이터 편집을 통한 전문적인 모션 생성](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318091&width=1415), (KCC 2025, 김정준, 이정연, 채영호 (중앙대학교))
+
+#### Journal
+- [Anatomical Control in Text-to-Motion Diffusion using Joint Condition Vectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11478258), (IEEE ACCESS, SOUNGSILL PARK, JEONGYEON LEE, KYUNGMIN KIM, YOUNGHO CHAI (Chung-Ang University))
 
 #### ETC
 - [Technical Document 2025](https://drive.google.com/file/d/1B4y3Ww-pWt4iccBF88mvarToYc71k0gQ/view)
